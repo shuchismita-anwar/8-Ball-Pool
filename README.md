@@ -1,4 +1,4 @@
-# 8-Ball Pool Game
+# 8-Ball-Pool Game
 
 
 This is a simple 8-Ball Pool game implemented in Python using the OpenGL library. The game provides a basic graphical interface for playing 8-Ball Pool, allowing users to aim and shoot the cue ball into one of the six pockets.
